@@ -10,3 +10,11 @@ By inspecting the code, you’ll notice that we have three React components:
 - Game
 
 The Square component renders a single < button > and the Board renders 9 squares. The Game component renders a board with placeholder values which we’ll modify later. There are currently no interactive components.
+
+## Wrapping Up
+ Created a tic-tac-toe game that:
+
+- Lets you play tic-tac-toe,
+- Indicates when a player has won the game,
+- Stores a game’s history as a game progresses,
+- Allows players to review a game’s history and see previous versions of a game’s board.
